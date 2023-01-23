@@ -1,6 +1,6 @@
 # WebProgrammingJava
 
-Project for the Web Development Course @ FMI UNIBUC
+Project for the Web Development With Java Course @ FMI UNIBUC
 
 Backend mockup for a movie rating website.
 
